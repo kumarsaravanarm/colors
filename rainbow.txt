@@ -10,3 +10,4 @@ black
 grey 
 golden
 moon white
+dark knight
