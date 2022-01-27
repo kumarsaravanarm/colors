@@ -4,8 +4,10 @@ yellow
 white
 black
 green
-
+light grey
 first zhode
 black 
 grey 
 golden
+light blue
+
