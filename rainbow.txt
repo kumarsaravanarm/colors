@@ -11,3 +11,5 @@ grey
 golden
 light blue
 
+white night 
+drank knight
